@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasmatias
 - 👀 I’m interested in learning about this magnific place that is Programing and make the magic happens!!! Rsrsrs
-- 🌱 I’m currently learning Phyton, and tests automation.
+- 🌱 I’m currently learning Phyton, and test automation.
 - 📫 How to reach me by mail: yasminmatias@hotmail.com and https://www.linkedin.com/in/yasmatias/
 
 <!---
